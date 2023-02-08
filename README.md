@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
+### About ME
+My name is Ben and I am a python developer currently studying mathematics at the university of Nottingham. As such, most of my work is mathematics based, designing functions to perform a wide range of computation mainly using Numpy.
 <!--
 **bgmwaring/bgmwaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
