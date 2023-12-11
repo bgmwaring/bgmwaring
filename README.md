@@ -14,6 +14,9 @@ My name is Ben and I am a python developer currently studying mathematics at the
 <li>SQL</li>
 <li>HTML and CSS</li>
 <li>C#</li>
+
+### Currently Working On
+I am currently learning Django and working on a website that runs polls. I am also looking to convert some of my simple command line projects into programs with easier interfaces.
 <!--
 **bgmwaring/bgmwaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
