@@ -13,6 +13,7 @@ My name is Ben and I am a python developer currently studying mathematics at the
 <li>Django</li>
 <li>SQL</li>
 <li>HTML and CSS</li>
+<li>JavaScript</li>
 <li>C#</li>
 
 ### Currently Working On
