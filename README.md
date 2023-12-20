@@ -14,7 +14,7 @@ My name is Ben and I am a python developer currently studying mathematics at the
 <li>SQL</li>
 <li>HTML and CSS</li>
 <li>JavaScript</li>
-<li>C#</li>
+<li>C# and C</li>
 
 ### Currently Working On
 I am currently learning Django and working on a website that runs polls. I am also looking to convert some of my simple command line projects into programs with easier interfaces.
