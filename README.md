@@ -18,6 +18,8 @@ My name is Ben and I am a python developer currently studying mathematics at the
 
 ### Currently Working On
 I am currently learning Django and working on a website that runs polls. I am also looking to convert some of my simple command line projects into programs with easier interfaces.
+
+I am also studying mathematics with a focus on machine learning, currently working on developing optimisation techniques using python.
 <!--
 **bgmwaring/bgmwaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
