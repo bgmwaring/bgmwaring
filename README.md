@@ -17,7 +17,7 @@ My name is Ben and I am a python developer currently studying mathematics at the
 <li>C# and C</li>
 
 ### Currently Working On
-I am currently learning Django and working on a website that runs polls. I am also looking at how game development functions in python, including building my own python powered game.
+I am currently learning Django and have built a website that runs polls, I am currently looking at how to push this to a reusable applications. I am also looking at how game development functions in python, including building my own python powered game.
 
 I am also studying mathematics with a focus on machine learning, currently working on developing optimisation techniques using python.
 <!--
