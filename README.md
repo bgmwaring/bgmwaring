@@ -19,7 +19,7 @@ My name is Ben and I am a python developer currently studying mathematics at the
 ### Currently Working On
 I am currently studying mathematics with a focus on machine learning, working on developing optimisation techniques using python. 
 
-I am also working on Technical Analysis software, using optimastion to provide financial solutions.
+I am also working on Technical Analysis software, using machine learning techniques to provide financial solutions.
 <!--
 **bgmwaring/bgmwaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
