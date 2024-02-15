@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ### About Me
-My name is Ben and I am a python developer currently studying mathematics at the university of Nottingham. As such, most of my work is mathematics based, designing functions to perform a wide range of computation mainly using Numpy and ScyPi.
+My name is Ben and I am a python developer currently studying mathematics at the university of Nottingham.
 
 
 :desktop_computer: My experience is in machine learning, specifically optimisation. I am however looking to venture into backend engineering.
