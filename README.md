@@ -6,7 +6,7 @@ My name is Ben and I am a python developer currently studying mathematics at the
 
 :desktop_computer: My experience is in machine learning, specifically optimisation. I am however looking to venture into backend engineering.
 
-:incoming_envelope:https://www.linkedin.com/in/ben-w-25b818160/
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ben-w-25b818160/)
 
 ### Skills
 <li>Python</li>
