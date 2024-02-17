@@ -14,7 +14,6 @@ My name is Ben and I am a python developer currently studying mathematics at the
 <li>SQL</li>
 <li>HTML and CSS</li>
 <li>JavaScript</li>
-<li>C# and C</li>
 
 ### Currently Working On
 I am currently studying mathematics with a focus on machine learning, working on developing optimisation techniques using python. 
